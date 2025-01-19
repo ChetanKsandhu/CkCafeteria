@@ -99,7 +99,5 @@ class CafeteriaMenu:
             else:
                 print("Invalid choice. Please try again.")
 
-
-# Run the cafeteria menu system
 cafeteria = CafeteriaMenu()
 cafeteria.run()
